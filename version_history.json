@@ -3,14 +3,64 @@
     "versionName": "1.0.0-alpha.42",
     "versionCode": 1000042,
     "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
-    "fileSize": 24245551,
-    "sha256": "073827899a55087c4ad537902bc8f73927ae909107ef8b8919c372c1a3d0ad0a",
+    "fileSize": 24245859,
+    "sha256": "3e8dcf39534ad4fa737d2366b9f8f00b5e6ba010168bed37714f9202360754b0",
     "releaseNotes": "Обновление приложения",
     "releaseDate": "2025-04-13",
-    "isMandatory": false
+    "isMandatory": true
   },
   "latestDownloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/latest/download/latest.apk",
   "versionHistory": [
+    {
+      "versionName": "1.0.0-alpha.42",
+      "versionCode": 1000042,
+      "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
+      "fileSize": 24245859,
+      "sha256": "3e8dcf39534ad4fa737d2366b9f8f00b5e6ba010168bed37714f9202360754b0",
+      "releaseNotes": "Обновление приложения",
+      "releaseDate": "2025-04-13",
+      "isMandatory": true
+    },
+    {
+      "versionName": "1.0.0-alpha.42",
+      "versionCode": 1000042,
+      "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
+      "fileSize": 24245803,
+      "sha256": "fd4db1b319543b12a24b55e9cea9536e689ed32d57e6991c4f69ba0941f30533",
+      "releaseNotes": "Обновление приложения2",
+      "releaseDate": "2025-04-13",
+      "isMandatory": true
+    },
+    {
+      "versionName": "1.0.0-alpha.42",
+      "versionCode": 1000042,
+      "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
+      "fileSize": 24245727,
+      "sha256": "140a66ae89875b87d415170e66316f5839dfdf56b0d72a17abf1f04b14679ace",
+      "releaseNotes": "Обновление приложения2",
+      "releaseDate": "2025-04-13",
+      "isMandatory": true
+    },
+    {
+      "versionName": "1.0.0-alpha.42",
+      "versionCode": 1000042,
+      "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
+      "fileSize": 24245667,
+      "sha256": "5d4b50ac3d0ab5f48d50decbbcb55596e808219865e078352604f047359f7218",
+      "releaseNotes": "Обновление приложения",
+      "releaseDate": "2025-04-13",
+      "isMandatory": true
+    },
+    {
+      "versionName": "1.0.0-alpha.42",
+      "versionCode": 1000042,
+      "downloadUrl": "https://github.com/PavelKrut/DOMOchat/releases/download/1.0.0-alpha.42/1.0.0-alpha.42.apk",
+      "fileSize": 24245611,
+      "sha256": "3b12be0e17f14c20385539ea4ab2834a0433c24bf28547ef18586db083968454",
+      "releaseNotes": "Обновление приложения",
+      "releaseDate": "2025-04-13",
+      "isMandatory": false
+    },
     {
       "versionName": "1.0.0-alpha.42",
       "versionCode": 1000042,
